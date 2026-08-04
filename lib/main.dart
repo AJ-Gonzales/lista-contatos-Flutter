@@ -52,7 +52,6 @@ class Contato {
   bool favorito = false;
 
   Contato(this.nomeCompleto, this.email);
-
 }
 
 class ContatoItem extends StatelessWidget {
